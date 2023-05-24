@@ -1,0 +1,122 @@
+[
+	{
+		"id" : 1,
+		"photo_url" : "https://cdcssl.ibsrv.net/cimg/www.carsdirect.com/1200x800_85/269/Camry_TRD_001_2FFD9F49D6BFEE4669C5C1B79EB57D9AE1C37EA1-615269.jpg",
+		"car_id" : 1
+	},
+	{
+		"id" : 2,
+		"photo_url" : "https://2022cars.com/wp-content/uploads/2020/09/2022-Toyota-Camry-1068x801.jpg",
+		"car_id" : 2
+	},
+	{
+		"id" : 3,
+		"photo_url" : "https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/pages/catalogue/camry/2022/features/toyota-2022-camry-features-hybrid-le-celestrial-silver-metallic-m.jpg?ck=08272021054513",
+		"car_id" : 3
+	},
+	{
+		"id" : 4,
+		"photo_url" : "https://cdn.carbuzz.com/gallery-images/2022-toyota-corolla-hatchback-carbuzz-757749-1600.jpg",
+		"car_id" : 4
+	},
+	{
+		"id" : 5,
+		"photo_url" : "https://www.autotrader.com/wp-content/uploads/2021/08/2022-toyota-corolla-hatchback-front-right.jpg?w=1068&h=0&crop=1",
+		"car_id" : 5
+	},
+	{
+		"id" : 6,
+		"photo_url" : "https://cdcssl.ibsrv.net/cimg/www.carsdirect.com/1200x800_85/173/2020_Corolla_LE_Hybrid_BlueCrushMetallic_014_33C3CD931061F030867DE2F57FF0C929C5B79027-616173.jpg",
+		"car_id" : 6
+	},
+	{
+		"id" : 8,
+		"photo_url" : "https://cdn.carbuzz.com/gallery-images/2022-ford-f-350-super-duty-carbuzz-601822-1600.jpg",
+		"car_id" : 7
+	},
+	{
+		"id" : 9,
+		"photo_url" : "https://spirotours.com/wp-content/uploads/2020/11/2022-Ford-F350-diesel-dually-king-ranch-platinum.jpg",
+		"car_id" : 8
+	},
+	{
+		"id" : 10,
+		"photo_url" : "https://static.cargurus.com/images/site/2008/09/02/15/35/1992_ford_escort_2_dr_gt_hatchback-pic-2788.jpeg",
+		"car_id" : 9
+	},
+	{
+		"id" : 11,
+		"photo_url" : "https://barnfinds.com/wp-content/uploads/2020/08/1995-Taurus-main-e1597965792297.jpg",
+		"car_id" : 10
+	},
+	{
+		"id" : 12,
+		"photo_url" : "https://cdn.dealeraccelerate.com/showdown/1/360/16752/1920x1440/1985-chevrolet-camaro-iroc-z-28",
+		"car_id" : 11
+	},
+	{
+		"id" : 13,
+		"photo_url" : "https://ccmarketplace.azureedge.net/cc-temp/listing/104/9051/10478868-1992-chevrolet-camaro-z28-std.jpg",
+		"car_id" : 12
+	},
+	{
+		"id" : 14,
+		"photo_url" : "https://www.toyota-2023.com/wp-content/uploads/2021/07/2022-Toyota-Camry-Interior.png",
+		"car_id" : 1
+	},
+	{
+		"id" : 16,
+		"photo_url" : "https://www.newestcarsdesign.com/wp-content/uploads/2020/11/price-and-release-date-2022-toyota-camry-se-hybrid.png",
+		"car_id" : 2
+	},
+	{
+		"id" : 17,
+		"photo_url" : "https://toyotaenginenews.com/wp-content/uploads/2021/03/2022-Toyota-Camry-Interior-1.png",
+		"car_id" : 3
+	},
+	{
+		"id" : 18,
+		"photo_url" : "https://cdn.carbuzz.com/gallery-images/2022-toyota-corolla-cross-dashboard-carbuzz-854182-1600.jpg",
+		"car_id" : 4
+	},
+	{
+		"id" : 19,
+		"photo_url" : "https://www.toyota-2023.com/wp-content/uploads/2021/07/2022-Toyota-Corolla-GR-Interior.png",
+		"car_id" : 5
+	},
+	{
+		"id" : 20,
+		"photo_url" : "https://ottoyota.sfo2.digitaloceanspaces.com/2022/Corolla/COR_MY22_0018_V001-1_result.jpg",
+		"car_id" : 6
+	},
+	{
+		"id" : 21,
+		"photo_url" : "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/superduty/2022/collections/equipment/3-2/22_FRD_FSD_49580_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg",
+		"car_id" : 7
+	},
+	{
+		"id" : 22,
+		"photo_url" : "https://images.cars.com/cldstatic/wp-content/uploads/ford-f-250-super-duty-2020-23-front-row--interior.jpg",
+		"car_id" : 8
+	},
+	{
+		"id" : 23,
+		"photo_url" : "https://static.cargurus.com/images/site/2010/09/24/06/46/1995_ford_escort_4_dr_lx_hatchback-pic-3534918816946958200.jpeg",
+		"car_id" : 9
+	},
+	{
+		"id" : 24,
+		"photo_url" : "https://static.cargurus.com/images/site/2017/01/04/09/53/1995_ford_taurus_sho-pic-3696588468317305254-640x480.jpeg",
+		"car_id" : 10
+	},
+	{
+		"id" : 25,
+		"photo_url" : "https://static.cargurus.com/images/site/2015/07/19/15/53/1985_chevrolet_camaro_iroc_z-pic-2099536745158973290-1600x1200.jpeg",
+		"car_id" : 11
+	},
+	{
+		"id" : 26,
+		"photo_url" : "https://st.hotrod.com/uploads/sites/21/2016/11/1989-chevrolet-camaro-iroc-z-interior.jpg",
+		"car_id" : 12
+	}
+]
